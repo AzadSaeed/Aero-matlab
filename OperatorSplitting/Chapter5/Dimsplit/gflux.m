@@ -1,1 +1,0 @@
-function g=gflux(u,der)if nargin<2,	g=0.4*u.^2;else	g=0.8*u;end;
